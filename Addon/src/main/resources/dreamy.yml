@@ -1,5 +1,5 @@
-dreamyPath: org.example.addon.MainAddon
+dreamyPath: be.alexandre01.addon.MainAddon
 dreamyName: Addon
 version: 1.0
-authors: [yourName]
-description: Your addon description
+authors: [Alexandre01]
+description: Addon for Dreamy

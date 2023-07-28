@@ -1,8 +1,8 @@
-package org.example.addon;
+package be.alexandre01.addon;
 
 import be.alexandre01.dreamnetwork.api.addons.Addon;
 import be.alexandre01.dreamnetwork.api.addons.DreamExtension;
-import org.example.addon.commands.StressCommand;
+import be.alexandre01.addon.commands.StressCommand;
 
 public class MainAddon extends DreamExtension {
     public MainAddon(Addon addon){

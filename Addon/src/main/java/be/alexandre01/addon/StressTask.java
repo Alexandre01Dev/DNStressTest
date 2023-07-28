@@ -1,16 +1,13 @@
-package org.example.addon;
+package be.alexandre01.addon;
 
 import be.alexandre01.dreamnetwork.api.connection.core.communication.CoreResponse;
 import be.alexandre01.dreamnetwork.api.connection.core.communication.IClient;
-import be.alexandre01.dreamnetwork.api.service.IJVMExecutor;
 import be.alexandre01.dreamnetwork.core.utils.messages.Message;
 import io.netty.channel.ChannelHandlerContext;
 import lombok.Getter;
 
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
-import java.util.concurrent.ScheduledExecutorService;
-import java.util.concurrent.TimeUnit;
 
 public class StressTask {
     @Getter CoreResponse coreResponse;

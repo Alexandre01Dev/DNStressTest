@@ -1,4 +1,4 @@
-package org.example.plugins;
+package be.alexandre01.plugins;
 
 import be.alexandre01.dnplugin.api.request.communication.ClientResponse;
 import be.alexandre01.dnplugin.plugins.spigot.api.DNSpigotAPI;
