@@ -1,0 +1,3 @@
+main: org.example.plugins.MainPlugins
+name: Plugin
+version: 1.0
